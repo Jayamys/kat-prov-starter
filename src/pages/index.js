@@ -8,9 +8,9 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>Welcome to the ol' website</h1>
+    <h1>HUGE CHANGE WOW</h1>
     <p>This is where I will display all achievements and stuff like that.</p>
-    <p>Look at this basic ass shit.</p>
+    <p>Here we go changing things again. Let's see if it does so automatically this time.</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
